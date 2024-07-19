@@ -1,105 +1,75 @@
-#EXTINF:-1 group-title="VIỆT NAM" group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
+#EXTINF:-1 group-title="Radio VN",Radio VN
+#EXTINF:-1, VOV1
 http://media.kythuatvov.vn:7001/;stream/
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
+#EXTINF:-1, VOV2
 http://media.kythuatvov.vn:7003/;stream/
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/241.png", VOV3
+#EXTINF:-1, VOV3
 http://media.kythuatvov.vn:7005/;stream/
-#EXTINF:-1 roup-title="VIỆT NAM" tvg-logo="https://i.imgur.com/64ZucRJ.png", VOV MINORITIES SERVICE NORTH
-https://stream.vovmedia.vn/vov4tb
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/64ZucRJ.png" radio="true", VOV MINORITIES SERVICE HIGHLANDS
-https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
-#EXTINF:-1 roup-title="VIỆT NAM" tvg-logo="https://i.imgur.com/64ZucRJ.png", VOV MINORITIES SERVICE MEKONG
-https://stream.vovmedia.vn/vov4dbscl
-#EXTINF:-1 roup-title="VIỆT NAM" tvg-logo="https://i.imgur.com/64ZucRJ.png", VOV MINORITIES SERVICE SAIGON
-https://stream.vovmedia.vn/vov4hcm
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/7XxWatS.png" radio="true", VOV WORLD SERVICE
-https://stream.vovmedia.vn/vov5
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/jjfSOYm.png" radio="true", VOV ENGLISH SERVICE
-https://stream.vovmedia.vn/vov247
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/rllXbD6.png" radio="true", VOV TRAFFIC SERVICE HANOI
-https://stream.vovmedia.vn/vovgthn
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/rllXbD6.png" radio="true", VOV TRAFFIC SERVICE HANOI (High Definition)
-https://hqth.me/vovtraffichan_dlk
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/SyQBB9I.png" radio="true", VOV TRAFFIC SERVICE SAIGON
-https://stream.vovmedia.vn/vovgthcm
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/SyQBB9I.png" radio="true", VOV TRAFFIC SERVICE SAIGON (High Definition)
-https://hqth.me/vovtrafficsg_dlk
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/2uTCy6B.png" radio="true", VOV TRAFFIC SERVICE MEKONG
-https://stream.vovmedia.vn/vovmekong
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/2uTCy6B.png" radio="true", VOV TRAFFIC SERVICE MEKONG (High Definition)
-https://hqth.me/vovtrafficmekong_dlk
-
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/hBCG8yD.png" radio="true", VOH FM 99.9Mhz
+#EXTINF:-1, VOH FM 99.9Mhz
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/ITTPjxo.png" radio="true", VOH FM 95.6Mhz
+#EXTINF:-1, VOH FM 95.6Mhz
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/Kk7NnHq.png" radio="true", VOH FM 87.7Mhz
+#EXTINF:-1, VOH FM 87.7Mhz
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/aJA9Yyb.png" radio="true", VOH AM 610Khz
+#EXTINF:-1, VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
-
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/l3ixRz3.png" radio="true", Xone Radio
+#EXTINF:-1, Xone Radio
 https://hqth.me/xonefm_dlk
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png" radio="true", FPT Play Pladio
-https://hqth.me/fpladio_dlk
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://yt3.googleusercontent.com/j6THiZmvMZvPO4GqlgVDM8iy-gyAIITfYbowooLfHKTr8V0BNmkfGjxgPGBziqc_VcHsO5tIbQ=s176-c-k-c0x00ffffff-no-rj" radio="true", Spacespeakers FM (R-On-TV)
-https://ythls.armelin.one/channel/UCDtrH0GklWIjbevreDgcSRA.m3u8
-
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="" radio="true", AN GIANG
+#EXTINF:-1, AN GIANG 
 http://42.1.64.42/490
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/108.png" radio="true", BA RIA VUNG TAU
+#EXTINF:-1, BA RIA VUNG TAU 
 http://113.163.216.23:1935/live/radio1.sdp_audio/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/112.png" radio="true", BAC LIEU
+#EXTINF:-1, BAC LIEU 
 https://tv.thbl.vn/live/radio/radio.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/111.png" radio="true", BAC KAN
+#EXTINF:-1, BAC KAN 
 http://14.224.167.97:8080/hls/radio.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://bacgiangtv.vn/templates/frontend/bgtv/Assets/img/radio_bg.png" radio="true", BAC GIANG
+#EXTINF:-1, BAC GIANG 
 https://live.mediatech.vn/live/28584e20827396945f5a4fd57fadd4be21a/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://bacninhtv.vn/images/thumbs/0000003334_a.png" radio="true", BAC NINH
-http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://thbt.vn/public/Home/images/radiobt.gif" radio="true", BEN TRE
+#EXTINF:-1, BAC NINH 
+
+#EXTINF:-1, BEN TRE 
 http://sohoa.truyenthanhthongminh.vn/sohoabentre
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/kCeLN9w.png" radio="true", BTV FM BINH DUONG
+#EXTINF:-1, BINH DUONG 
 http://sohoa.truyenthanhthongminh.vn/sohoabinhduong
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="" radio="true", BTV FM BINH DINH
-http://42.1.64.42/s4482
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://baobinhphuoc.com.vn/upload/files/logo/audio_poster.jpg" radio="true", BPTV RADIO
+#EXTINF:-1, BINH DINH 
+
+#EXTINF:-1, BINH PHUOC
 http://sohoa.truyenthanhthongminh.vn/sohoabinhphuoc
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/124.png" radio="true", BTV RADIO BINH THUAN
+#EXTINF:-1, BINH THUAN 
 https://64d0d74b76158.streamlock.net:443/BTVR/binhthuanradio/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="http://118.69.199.136/wp-content/uploads/2014/01/radio_online.jpg" radio="true", CA MAU
-http://42.1.64.42/MBF2029
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/SYVfQE6.png" radio="true", THTPCT-FM
+#EXTINF:-1, CA MAU
+
+#EXTINF:-1, CAN THO 
 http://sohoa.truyenthanhthongminh.vn/tpcantho
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/n0g9H0V.png" radio="true", DA NANG RADIO
-http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/F06hwZ2.png" radio="true", DRT DAK LAK FM
+#EXTINF:-1, DA NANG 
+
+#EXTINF:-1, DAK LAK 
 https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/131.png" radio="true", PTD RADIO
+#EXTINF:-1, DAK NONG RADIO
 https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/chunklist_w1887124328.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c5/%C4%90N-RTV.png" radio="true", DNRTV FM
-http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8 
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="http://www.thdt.vn/wp-content/uploads/2018/11/logo2-1.png" radio="true", THDT DONG THAP
+#EXTINF:-1, DONG NAI 
+
+#EXTINF:-1, DONG THAP 
 http://sohoa.truyenthanhthongminh.vn/fmdongthap
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="http://gialaitv.vn/data_news/images/audio12.gif" radio="true", THGL FM GIA LAI
+#EXTINF:-1, GIA LAI 
 http://113.161.25.3:8134/hls/radio/radio.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/139.png" radio="true", HGTV FM HA GIANG
+#EXTINF:-1, HA GIANG 
 http://113.162.84.113:8081/
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://media.hanamtv.vn/upload/files/image/bg_radio_live3.jpg" radio="true", THHN HA NAM RADIO
+#EXTINF:-1 ,HA NAM 
 https://live.mediatech.vn/live/285ead66b13795f434bb2e4834a98cbf17b/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/gG4RDq0.png" radio="true", HANOI FM90
+#EXTINF:-1 ,HA NOI FM 90Mhz
 http://14.162.146.90:8000/HANOI90
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/jeu9OoF.png" radio="true", HANOI FM96
+#EXTINF:-1 ,HA NOI FM 96Mhz
 http://222.252.21.96:8000/HANOI96
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/143.png" radio="true", HTTV HA TINH
+#EXTINF:-1 ,HA TINH 
 http://171.244.133.152:8000/hatinh
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="http://www.haiduongtv.com.vn/upload/news/icon//20.2018/1526269157_NENPHATTHANH.jpg" radio="true", THD HAI DUONG
+#EXTINF:-1 ,HAI DUONG 
 http://113.160.131.11:8000/
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/E26Sc7t.png" radio="true", THP RADIO 1 93.7Mhz
+#EXTINF:-1 ,HAI PHONG 93.7Mhz
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/T069bSK.png" radio="true", THP RADIO 2 102.2Mhz
+#EXTINF:-1 ,HAI PHONG 102.2Mhz
 https://live.mediatech.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/147.png" radio="true", HAU GIANG
+#EXTINF:-1 ,HAU GIANG 
 https://60acee235f4d5.streamlock.net/HGTVR/hgtvradio/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="http://hungyentv.vn//templates/frontend/hytv/Assets/img/backgroud-radio.jpg" radio="true", HYTV FM
 https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
