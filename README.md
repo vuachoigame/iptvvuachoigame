@@ -1,3 +1,3 @@
 TV: https://bom.so/vuachoigametv
-Radio: 
+Radio: https://bom.so/vuachoigameradio
 
