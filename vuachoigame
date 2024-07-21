@@ -13,6 +13,32 @@ https://cdn1.skygo.mn/live/disk1/KBS_World_24/HLS-FTA/KBS_World_24.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 ,Arirang Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 ,Detsky Mir
+http://stream01.vnet.am/CartoonNetwork/mono.m3u8
+#EXTINF:-1 ,Tiji
+http://stream01.vnet.am/Tiji/mono.m3u8
+#EXTINF:-1 ,СТС Kids
+http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Gulli Girl
+https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
+#EXTINF:-1 ,Bridge
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 ,Bridge Classic
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 ,Bridge Russian Hit 
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 ,Bridge Shlyager 
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 ,Bridge Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 ,Bridge Deluxe
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 ,Bridge Hits
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 ,Strana FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 ,365 DaysTV 
+http://146.158.0.56:80/365dney/index.m3u8
 #EXTINF:-1 ,TV9 Bangla 
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 ,TV9 Bharatvarsh
@@ -41,6 +67,12 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 ,Eagle One News 
 https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
+#EXTINF:-1 ,Krasnodar TV
+http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 ,Kavkaz 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1 ,Volgograd 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 #EXTINF:-1 ,EBS 1
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 ,EBS 2
@@ -61,8 +93,14 @@ https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/in
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 ,CGTN Spanish
 http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 ,Nizhny Novgorod 24
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
+#EXTINF:-1 ,Mir 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,High News
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+#EXTINF:-1 ,Moscow Trust
+https://player.smotrim.ru/iframe/stream/live_id/61125
 #EXTINF:-1 ,MTV AVA
 https://live-fi.tvkaista.net/ava/live.m3u8
 #EXTINF:-1 ,Harvest TV
@@ -95,8 +133,20 @@ http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 ,Channel 24 Ukraine
 http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+#EXTINF:-1 ,Channel 5 Russia
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 ,IBN TV
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
+#EXTINF:-1 ,Russia K
+http://91.142.158.107:8092/play/36/index.m3u8
+#EXTINF:-1 ,Russia 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
+#EXTINF:-1 ,FRIDAY International
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+#EXTINF:-1 ,SaturdayTV
+http://195.26.83.96:7013/play/a00e/index.m3u8
+#EXTINF:-1 ,RBC TV
+http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 ,BTN
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 #EXTINF:-1 ,Sachsen Fernsehen Chemnitz
@@ -141,6 +191,10 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 ,Dijlah
 https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:-1 ,Viju TV1000 Action 
+https://bkm.beetv.kz/btv/live/hls/000003910.m3u8
+#EXTINF:-1 ,Viju TV1000 Russia
+https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
 #EXTINF:-1 ,CD News 
 https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8
 #EXTINF:-1 ,ALTV 4 Thai PBS
@@ -197,8 +251,12 @@ http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 #EXTINF:-1 ,Belarus 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 ,Belarus 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 ,BBC Toronto Gaunda Punjab
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 ,ONT
+https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1 ,AAJ TAK
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 ,GNN
@@ -487,6 +545,10 @@ https://cdn-live.dltv.ac.th/dltv12.m3u8
 https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 ,DLTV 15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+#EXTINF:-1 ,Setanta Qazaqstan
+https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
+#EXTINF:-1 ,MatchTV
+http://91.142.158.107:8092/play/33/index.m3u
 #EXTINF:-1 ,CBS News Bay Area
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
 #EXTINF:-1 ,CBS News Chicago
