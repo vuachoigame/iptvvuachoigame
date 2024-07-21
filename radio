@@ -18,7 +18,7 @@ https://hqth.me/xonefm_dlk
 #EXTINF:-1, AN GIANG 
 http://42.1.64.42/490
 #EXTINF:-1, BA RIA VUNG TAU 
-http://113.163.216.23:1935/live/radio1.sdp_audio/playlist.m3u8
+
 #EXTINF:-1, BAC LIEU 
 https://tv.thbl.vn/live/radio/radio.m3u8
 #EXTINF:-1, BAC KAN 
@@ -146,7 +146,7 @@ https://stream.zeno.fm/8456uy0bcm0uv
 #EXTINF:-1 ,RFI TIENG VIET
 https://rfivietnamien96k.ice.infomaniak.ch/rfivietnamien-96k.mp3
 
-#EXTINF:-1 group-title="Quoc Te",Quoc Te
+#EXTINF:-1 group-title="Radio QT",Radio QT
 #EXTINF:-1 ,ABC News Radio
 http://live-radio01.mediahubaustralia.com/PBW/aac/
 #EXTINF:-1 ,ABC Radio Australia
@@ -298,6 +298,8 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 https://lhttp.qingting.fm/live/1254/64k.mp3
 #EXTINF:-1 ,Guangdong Radio Music
 http://live.cooltv.top/tv/ytradio.php?id=489
+#EXTINF:-1 ,Humor FM
+https://pub0301.101.ru:8443/stream/air/mp3/256/102
 #EXTINF:-1 ,ITN Lakhanda FM
 https://cp12.serverse.com/proxy/itnfm?mp=/stream
 #EXTINF:-1 ,ICRT FM
@@ -316,6 +318,8 @@ https://radio.lnr.org.la/fm94
 https://radio.lnr.org.la/fm103
 #EXTINF:-1 ,Le Mouv FM
 https://direct.mouv.fr/live/mouv-hifi.aac
+#EXTINF:-1 ,MAXIMUM Radio
+http://maximum.hostingradio.ru/maximum96.aacp
 #EXTINF:-1 ,MBC Standard FM
 http://serpent0.duckdns.org:8088/mbcsfm.pls
 #EXTINF:-1 ,Mediacorp Ria 897
@@ -492,4 +496,3 @@ https://stream.zeno.fm/qnt98p5m108uv?type=.aac
 https://stream.zeno.fm/205fny7m108uv?type=.aac
 #EXTINF:-1 ,988 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/988_FM.mp3
-
