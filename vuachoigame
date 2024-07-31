@@ -211,6 +211,8 @@ http://92.50.128.180/utv/1358/index.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 ,TL Estrella
 https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/playlist.m3u8
+#EXTINF:-1 ,Estrella TV
+https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Univalle
 https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:-1 ,F10
@@ -367,6 +369,8 @@ https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist
 http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
 #EXTINF:-1 ,Ariana Afghanistan International TV
 https://iptv.arianaafgtv.com/ariana/playlist.m3u8
+#EXTINF:-1 ,Afghanistan International 
+https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 ,C Malayalam TV
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 ,CHCOTV 
@@ -379,6 +383,8 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 ,GNN
 https://ythlsgo.onrender.com/channel/UC35KuZBNIj4S5Ls0yjY-UHQ.m3u8
+#EXTINF:-1 ,Iran International
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 ,GH Canada
 https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8
 #EXTINF:-1 ,GTN Canada 
@@ -529,10 +535,6 @@ https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 #EXTINF:-1 ,TBN Africa 
 https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/cc850928-d0d8-4336-84d0-999581129465.m3u8
-#EXTINF:-1 ,Fox Weather
-https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 ,Fox News
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 ,Adnkronos
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8
 #EXTINF:-1 ,GBN
@@ -857,12 +859,12 @@ https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8
 https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
 #EXTINF:-1 ,TVSN
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
-#EXTINF:-1 ,ABC News Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 ,Ausbiz
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 ,Setanta Qazaqstan
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
+#EXTINF:-1 ,American Pickers
+https://lnc-american-pickers.tubi.video/playlist.m3u8
 #EXTINF:-1 ,Ticker
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8
 #EXTINF:-1 ,MatchTV
@@ -887,8 +889,24 @@ https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
 https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/cityoforange/G1025_004/playlist.m3u8
 #EXTINF:-1 ,NBC NEWS
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1 ,NBC KING 5 
+https://lnc-king.tubi.video/live.m3u8
+#EXTINF:-1 ,NBC 5 WPTV
+https://lnc-wptv2.tubi.video/playlist.m3u8
+#EXTINF:-1 ,NBC 4 WYFF
+https://lnc-wyff.tubi.video/playlist.m3u8
 #EXTINF:-1 ,41 WMGT NBC 
 https://dai.google.com/linear/hls/event/ygKx2LkmRQCZ_orwBQhfFw/master.m3u8
+#EXTINF:-1 ,WLWT 5 NBC 
+https://lnc-wlwt.tubi.video/playlist.m3u8
+#EXTINF:-1 ,KRIS 6 NBC
+https://lnc-kris.tubi.video/playlist.m3u8
+#EXTINF:-1 ,KGW 8 NBC
+https://lnc-kgw.tubi.video/live.m3u8
+#EXTINF:-1 ,9 NEWS NBC
+https://lnc-kusa.tubi.video/live.m3u8
+#EXTINF:-1 ,2 NEWS Oklahoma
+https://lnc-kjrh.tubi.video/playlist.m3u8
 #EXTINF:-1 ,CBS News Bay Area
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
 #EXTINF:-1 ,CBS News Baltimore
@@ -917,20 +935,52 @@ https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/m
 https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
 #EXTINF:-1 ,CBS News Texas
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:-1 ,CBS 3 Norfolk 
+https://lnc-wtkr.tubi.video/playlist.m3u8
+#EXTINF:-1 ,CBS 6 Richmond 
+https://lnc-wtvr.tubi.video/playlist.m3u8
+#EXTINF:-1 ,WFMY CBS 2 
+https://lnc-wfmy.tubi.video/live.m3u8
+#EXTINF:-1 ,KHOU 11 CBS
+https://lnc-khou.tubi.video/live.m3u8
+#EXTINF:-1 ,WCBI CBS
+https://dai.google.com/linear/hls/event/qLrnhs3RQUa2zMw9UBkroQ/master.m3u8
+#EXTINF:-1 ,News 12 CBS
+http://dai.google.com/linear/hls/event/iVH_b5kWTteyRCy-YCoHOw/master.m3u8
+#EXTINF:-1 ,ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 ,ABC 5 Cleveland
+https://lnc-wews2.tubi.video/playlist.m3u8
 #EXTINF:-1 ,ABC 6 Philadelphia
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
 #EXTINF:-1 ,ABC 7 Los Angeles
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:-1 ,ABC 7 New York 
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 ,ABC 7 Denver
+https://lnc-kmgh2.tubi.video/playlist.m3u8
 #EXTINF:-1 ,ABC 10 Sacramento
 https://livevideo.tegnadigital.com/kxtv/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KXTV/elvs/live.m3u8
 #EXTINF:-1 ,ABC 11 Raleigh-Durham
 https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
 #EXTINF:-1 ,ABC 13 Houston
 https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
+#EXTINF:-1 ,ABC 15 Arizona
+https://lnc-knxv2.tubi.video/playlist.m3u8
+#EXTINF:-1 ,ABC 23 Bakersfield
+https://lnc-kero.tubi.video/playlist.m3u8
+#EXTINF:-1 ,ABC 25 Waco 
+https://lnc-kxxv.tubi.video/playlist.m3u8
 #EXTINF:-1 ,ABC 30 Fresno-Central Valley
 https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x7_news.m3u8
+#EXTINF:-1 ,5 ABC KOCO
+https://lnc-koco.tubi.video/playlist.m3u8
+#EXTINF:-1 ,WRTV ABC
+https://lnc-wrtv.tubi.video/playlist.m3u8
+#EXTINF:-1 ,7 ABC WKBW
+https://lnc-wkbw.tubi.video/playlist.m3u8
+#EXTINF:-1 ,9 ABC WCPO
+https://lnc-wcpo.tubi.video/playlist.m3u8
 #EXTINF:-1 ,Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 ,Global News BC
@@ -953,11 +1003,31 @@ https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b
 https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
 #EXTINF:-1 ,Global News Winnipeg
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
+#EXTINF:-1 ,Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 ,Fox News
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 ,Fox 2 Detroit
+https://lnc-wjbk.tubi.video/index.m3u8
+#EXTINF:-1 ,FOX 5 Atlanta 
+https://lnc-waga.tubi.video/index.m3u8
+#EXTINF:-1 ,FOX 5 Washington DC
+https://lnc-wttg.tubi.video/index.m3u8
+#EXTINF:-1 ,FOX 9 Minneapolis-Saint Paul
+https://lnc-kmsp.tubi.video/index.m3u8
+#EXTINF:-1 ,FOX 13 Salt Lake City
+https://lnc-kstu2.tubi.video/playlist.m3u8
+#EXTINF:-1 ,FOX 13 Seattle 
+https://lnc-kcpq.tubi.video/index.m3u8
+#EXTINF:-1 ,FOX 17 Grand Rapids 
+https://lnc-wxmi.tubi.video/playlist.m3u8
+#EXTINF:-1 ,FOX 26 Houston
+https://lnc-kriv.tubi.video/index.m3u8
+#EXTINF:-1 ,FOX 32 Chicago
+https://lnc-wfld.tubi.video/index.m3u8
+#EXTINF:-1 ,FOX 35 Orlando
+https://lnc-wofl.tubi.video/index.m3u8
 #EXTINF:-1 ,Fox 43 Harrisburg 
 https://livevideo01.fox43.com/hls/live/2011656/elvs/live.m3u8
 #EXTINF:-1 ,Fox 54 Huntsville
 https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8
-#EXTINF:-1 ,WCBI CBS
-https://dai.google.com/linear/hls/event/qLrnhs3RQUa2zMw9UBkroQ/master.m3u8
-#EXTINF:-1 ,News 12 CBS
-http://dai.google.com/linear/hls/event/iVH_b5kWTteyRCy-YCoHOw/master.m3u8
