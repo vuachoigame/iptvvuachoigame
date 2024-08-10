@@ -43,6 +43,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 #EXTINF:-1 ,Better Life TV 
 https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8
+#EXTINF:-1 ,Glory Christ Channel
+https://stream.it-innov.com/gcc/index.m3u8
 #EXTINF:-1 ,Gospel Cartoon 
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 ,Gospel Movie
@@ -67,6 +69,14 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 http://rtmp.apa.tv/@pagroup!23.m3u8
 #EXTINF:-1 ,HMI PROMZ NEWS
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+#EXTINF:-1 ,Liangshan TV
+http://118.122.2.29:9999/hls/47/index.m3u8
+#EXTINF:-1 ,ATV Colombia 
+https://movil.ejeserver.com/live/verteve.m3u8
+#EXTINF:-1 ,Amar Ujala
+https://ythls.armelin.one/channel/UCP_wvXToU5ohFLbTAkatvsw.m3u8
+#EXTINF:-1 ,Avenues Khabar 
+https://ythls.armelin.one/channel/UCMDzPE_7fcZSRJgpwIVor_A.m3u8
 #EXTINF:-1 ,HSH
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 #EXTINF:-1 ,HSH 2
@@ -91,6 +101,12 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
 #EXTINF:-1 ,WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 ,BenieTV 
+https://voozmedia.fun/benietv/livestream/playlist.m3u8
+#EXTINF:-1 ,Ecclesia
+https://helga.iptv2022.com/sh/Ecclesia_TV/index.m3u8
+#EXTINF:-1 ,Atacama TV
+https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1 ,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 ,El Sharq
@@ -127,8 +143,14 @@ https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 ,Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#EXTINF:-1 ,Cali TV
-https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 ,Carac 1
+https://edge.vedge.infomaniak.com/livecast/ik:event/.m3u8
+#EXTINF:-1 ,Carac 2
+https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/.m3u8
+#EXTINF:-1 ,Carac 3
+https://edge.vedge.infomaniak.com/livecast/ik:lfmmd/.m3u8
+#EXTINF:-1 ,Carac 4
+https://edge.vedge.infomaniak.com/livecast/ik:compack_media_1/.m3u8
 #EXTINF:-1 ,Sanskar TV 
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 #EXTINF:-1 ,Sanskar TV UK
@@ -141,6 +163,8 @@ http://live.cgtn.com/1000/prog_index.m3u8
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 ,Nizhny Novgorod 24
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
+#EXTINF:-1 ,Tele 1 Switzerland
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 ,Mir 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,High News
@@ -151,6 +175,8 @@ https://player.smotrim.ru/iframe/stream/live_id/61125
 https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 ,MTV AVA
 https://live-fi.tvkaista.net/ava/live.m3u8
+#EXTINF:-1 ,AysenTV
+https://v1.tustreaming.cl/aysentv/index.m3u8
 #EXTINF:-1 ,Harvest TV
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
 #EXTINF:-1 ,Harvest TV Keralam
@@ -181,16 +207,20 @@ https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 ,CYC
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
-#EXTINF:-1 ,ABN
+#EXTINF:-1 ,ABN South Korea
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 ,Channel 24 Ukraine
 http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+#EXTINF:-1 ,Cable Sur 
+https://tvlatina.live:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 ,Channel 5 Russia
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 ,Lacrosse TV 
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 ,IBN TV
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
+#EXTINF:-1 ,IBA Channel 
+https://video1.getstreamhosting.com:1936/8190/8190/playlist.m3u8
 #EXTINF:-1 ,Russia K
 http://91.142.158.107:8092/play/36/index.m3u8
 #EXTINF:-1 ,Russia 24
@@ -355,6 +385,12 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 ,Belarus 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 ,BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 ,BBC Arabic
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 ,BBC Persian
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 ,BBC Toronto Gaunda Punjab
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 ,Toronto 360 
@@ -597,16 +633,24 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 ,Canal 7 Salta
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+#EXTINF:-1 ,Canal 8 Los Sauces
+http://live.mundogo.cl/mundo/LossaucesTV/index.m3u8
 #EXTINF:-1 ,Canal 9 Litoral 
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 ,Canal 10 Neuquen
 https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8
+#EXTINF:-1 ,Canal 11 Aysen
+https://v1.tustreaming.cl:19360/canal11aysen/canal11aysen.m3u8
 #EXTINF:-1 ,Canal 12 Puerto Madryn
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 #EXTINF:-1 ,Canal 25 Jundiai
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 ,Canal 34 San Juan 
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1 ,Canal 55 Telemorisco 
+http://canal.mediaserver.com.co/live/telemorisco.m3u8
+#EXTINF:-1 ,Canal Institucional 
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 ,Hope Channel Bulgaria
 https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
 #EXTINF:-1 ,Light Channel 
@@ -621,6 +665,10 @@ https://bss1.neterra.tv/thevoice/thevoice.m3u8
 https://streamer103.neterra.tv/tiankov-folk/live.m3u8
 #EXTINF:-1 ,Tiankov Orient Folk
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+#EXTINF:-1 ,CTV Barranquilla 
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:-1 ,Senal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 ,COM Brasil 
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 #EXTINF:-1 ,TVN Brasil 
