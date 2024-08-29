@@ -24,7 +24,7 @@ https://tv.thbl.vn/live/radio/radio.m3u8
 #EXTINF:-1, BAC KAN 
 http://14.224.167.97:8080/hls/radio.m3u8
 #EXTINF:-1, BAC GIANG 
-https://live.mediatech.vn/live/28584e20827396945f5a4fd57fadd4be21a/chunklist.m3u8
+
 #EXTINF:-1, BAC NINH 
 
 #EXTINF:-1, BEN TRE 
@@ -52,7 +52,7 @@ https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/chunklist_w1887124328.m3u8
 #EXTINF:-1, DONG THAP 
 http://sohoa.truyenthanhthongminh.vn/fmdongthap
 #EXTINF:-1, GIA LAI 
-http://113.161.25.3:8134/hls/radio/radio.m3u8
+
 #EXTINF:-1, HA GIANG 
 http://113.162.84.113:8081/
 #EXTINF:-1 ,HA NAM 
@@ -64,7 +64,7 @@ http://222.252.21.96:8000/HANOI96
 #EXTINF:-1 ,HA TINH 
 http://171.244.133.152:8000/hatinh
 #EXTINF:-1 ,HAI DUONG 
-http://113.160.131.11:8000/
+
 #EXTINF:-1 ,HAI PHONG 93.7Mhz
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
 #EXTINF:-1 ,HAI PHONG 102.2Mhz
@@ -94,7 +94,7 @@ http://125.212.237.207:8000/tinhnghean
 #EXTINF:-1 ,NINH BINH
 https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/playlist.m3u8
 #EXTINF:-1 ,NAM DINH
-http://123.16.189.138:1724/sohoanamdinh
+
 #EXTINF:-1 ,NINH THUAN
 https://618b88f69e53b.streamlock.net/NTVR/ntvradio/chunklist.m3u8
 #EXTINF:-1 ,PHU THO
@@ -102,7 +102,7 @@ https://618b88f69e53b.streamlock.net/NTVR/ntvradio/chunklist.m3u8
 #EXTINF:-1 ,PHU YEN
 http://113.161.4.48:8080/phuyen/radio/index.m3u8
 #EXTINF:-1 ,QUANG BINH
-http://27.71.226.192:3000/quang_binh2
+
 #EXTINF:-1 ,QUANG TRI
 http://113.161.6.157:8085/phatthanh/QRT.m3u8
 #EXTINF:-1 ,QUANG NGAI
@@ -118,13 +118,13 @@ http://vncdn.mediatech.vn/qtvlive/qnr1.m3u8
 #EXTINF:-1 ,SON LA
 https://live.mediatech.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/playlist.m3u8
 #EXTINF:-1 ,TT-HUE
-http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
+
 #EXTINF:-1 ,THANH HOA
 
 #EXTINF:-1 ,THAI NGUYEN
-https://radio.thainguyentv.vn/hls/livestream.m3u8
+
 #EXTINF:-1 ,TAY NINH
-http://202.43.109.142:1935/radio11/tnradio/chunklist.m3u8
+
 #EXTINF:-1 ,THAI BINH
 http://118.70.118.191:1935/tbtvlive/radio/chunklist.m3u8
 #EXTINF:-1 ,TIEN GIANG
@@ -147,6 +147,14 @@ https://stream.zeno.fm/8456uy0bcm0uv
 https://rfivietnamien96k.ice.infomaniak.ch/rfivietnamien-96k.mp3
 
 #EXTINF:-1 group-title="Radio QT",Radio QT
+#EXTINF:-1 ,87.5 Republika FM1
+https://stream.zeno.fm/qnt98p5m108uv?type=.aac
+#EXTINF:-1 ,94.3 Now! Radio
+https://videostream.jpbgdigital.com/CHNWTV.m3u8
+#EXTINF:-1 ,104.3 Capital FM2
+https://stream.zeno.fm/205fny7m108uv?type=.aac
+#EXTINF:-1 ,988 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/988_FM.mp3
 #EXTINF:-1 ,ABC News Radio
 http://live-radio01.mediahubaustralia.com/PBW/aac/
 #EXTINF:-1 ,ABC Radio Australia
@@ -229,6 +237,8 @@ https://direct.sharp-stream.com/ssvcbfbs23.mp3
 https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs21.mp3
 #EXTINF:-1 ,BFM 89.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/BFM.mp3
+#EXTINF:-1 ,Cool FM 98.9
+https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
 #EXTINF:-1 ,CRo 1 Radiozurnal
 http://icecast1.play.cz/cro1128aac
 #EXTINF:-1 ,CRo 2 Dvojka
@@ -298,6 +308,8 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 https://lhttp.qingting.fm/live/1254/64k.mp3
 #EXTINF:-1 ,Guangdong Radio Music
 http://live.cooltv.top/tv/ytradio.php?id=489
+#EXTINF:-1 ,Heart Radio Aruba 
+https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
 #EXTINF:-1 ,Humor FM
 https://pub0301.101.ru:8443/stream/air/mp3/256/102
 #EXTINF:-1 ,ITN Lakhanda FM
@@ -490,9 +502,3 @@ https://live4.tdm.com.mo/live/_definst_/rch1.live/playlist.m3u8
 https://radio.ukr.radio:8443/ur1-aacplus-l
 #EXTINF:-1 ,YES FM
 http://live.trusl.com:1150/listen.pls?sid=1
-#EXTINF:-1 ,87.5 Republika FM1
-https://stream.zeno.fm/qnt98p5m108uv?type=.aac
-#EXTINF:-1 ,104.3 Capital FM2
-https://stream.zeno.fm/205fny7m108uv?type=.aac
-#EXTINF:-1 ,988 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/988_FM.mp3
