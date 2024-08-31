@@ -161,44 +161,22 @@ http://live-radio01.mediahubaustralia.com/PBW/aac/
 https://live-radio01.mediahubaustralia.com/RAEW/mp3/
 #EXTINF:-1 ,AIR Vividh Bharati
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
-#EXTINF:-1 ,AIR Rainbow FM Mumbai
+#EXTINF:-1 ,AIR FM Rainbow Mumbai
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio00864kbps.m3u8
-#EXTINF:-1 ,AIR Live News
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00232kbps.m3u8
-#EXTINF:-1 ,AIR Gold FM
+#EXTINF:-1 ,AIR FM Gold Delhi
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8
 #EXTINF:-1 ,AIR Raagam
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam64kbps.m3u8
-#EXTINF:-1, Antena Satelor
-http://stream2.srr.ro:8046/;
 #EXTINF:-1 ,Army FM
 http://212.26.132.129:8000/ArmyFM
-#EXTINF:-1 ,Avtoradio Ukraine 
-https://cast.mediaonline.net.ua/avtoradio
 #EXTINF:-1 ,Avtoradio
 http://ic7.101.ru:8000/v3_1
-#EXTINF:-1 ,Astro Hitz FM
-https://stream-eu-a.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/playlist.m3u8
-#EXTINF:-1 ,Astro GoXuan
-https://stream.rcs.revma.com/xt9nhzsbv4uvv/hls.m3u8
-#EXTINF:-1 ,Astro MY FM
-https://stream.rcs.revma.com/hc3unrtbv4uvv/hls.m3u8
-#EXTINF:-1 ,Astro ERA FM
-https://stream.rcs.revma.com/crec9cmbv4uvv/hls.m3u8
-#EXTINF:-1 ,Astro Mix FM
-https://stream.rcs.revma.com/v5pq3htbv4uvv/8_1p81m2hbe0gg902/playlist.m3u8
-#EXTINF:-1 ,BBC World Service (Intl)
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
-#EXTINF:-1 ,BBC World Service (East Asia)
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service_east_asia/bbc_world_service_east_asia.isml/bbc_world_service_east_asia-audio=320000.m3u8
 #EXTINF:-1 ,BBC Radio 1
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
 #EXTINF:-1 ,BBC Radio 1Xtra
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio=320000.m3u8
 #EXTINF:-1 ,BBC Radio 1 Dance
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=320000.m3u8
-#EXTINF:-1 ,BBC Radio 1 Relax
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio=320000.m3u8
 #EXTINF:-1 ,BBC Radio 2
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
 #EXTINF:-1 ,BBC Radio 3
@@ -211,20 +189,12 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_ra
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
 #EXTINF:-1 ,BBC Radio 6
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
-#EXTINF:-1 ,BCC Country Network
-https://stream.rcs.revma.com/p2e3rfg3qtzuv
-#EXTINF:-1 ,BCC Pop Network
-http://n14.rcs.revma.com/aw9uqyxy2tzuv
-#EXTINF:-1 ,BCC Music Network
+#EXTINF:-1 ,BCC Music 
 http://n07.rcs.revma.com/ks4vsmg3qtzuv
-#EXTINF:-1 ,BCC News Network
-http://n12.rcs.revma.com/78fm9wyy2tzuv
 #EXTINF:-1 ,BFBS Radio 2
 https://edge-audio-06-cr.sharp-stream.com/ssvcbfbs2.mp3
 #EXTINF:-1 ,BFBS Gurkha Network
 https://icy-e-05-gos.sharp-stream.com/ssvcbfbs3.mp3
-#EXTINF:-1 ,BFBS Radio Asia
-https://edge-audio-04-gos1.sharp-stream.com/ssvcbfbs10.mp3
 #EXTINF:-1 ,BFBS Beats
 https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs20.mp3
 #EXTINF:-1 ,BFBS Edge
@@ -237,19 +207,14 @@ https://direct.sharp-stream.com/ssvcbfbs23.mp3
 https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs21.mp3
 #EXTINF:-1 ,BFM 89.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/BFM.mp3
-#EXTINF:-1 ,Cool FM 98.9
-https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
 #EXTINF:-1 ,CRo 1 Radiozurnal
 http://icecast1.play.cz/cro1128aac
-#EXTINF:-1 ,CRo 2 Dvojka
+#EXTINF:-1 ,CRo Dvojka
 https://rozhlas.stream/dvojka_high.aac
-#EXTINF:-1 ,CRo 3 Vltava
+#EXTINF:-1 ,CRo Vltava
 https://rozhlas.stream/vltava_high.aac
-#EXTINF:-1 ,CRo 6 Wave
+#EXTINF:-1 ,CRo Wave
 http://rozhlas.stream/radio_wave_high.aac
-#EXTINF:-1 ,CRo Regina DAB Praha
-#EXTINF:-1 ,Deutschlandfunk
-https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac
 #EXTINF:-1 ,CNR 1 
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:-1 ,CNR 2 
@@ -272,13 +237,13 @@ http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
 http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
 #EXTINF:-1 ,CNR 16
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:-1 ,Deutschlandfunk
+https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac
 #EXTINF:-1 ,Deutschlandfunk Kultur
 https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac
 #EXTINF:-1 ,Deutschlandfunk Nova
 https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac
-#EXTINF:-1 ,Digital Radio Hong Kong
-http://ice.digitalradiohk.net:8000/drhk
-#EXTINF:-1 ,DZBB Super Radyo
+#EXTINF:-1 ,DZBB 594 Super Radyo
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
 #EXTINF:-1 ,Eight FM
 https://mediaprima.rastream.com/mediaprima-onefm
@@ -286,10 +251,10 @@ https://mediaprima.rastream.com/mediaprima-onefm
 https://stream.europe1.fr/europe1.mp3
 #EXTINF:-1 ,Europe 2
 https://europe2.lmn.fm/europe2.aac
-#EXTINF:-1 ,Evropa 2
-https://ice.actve.net/fm-evropa2-128
 #EXTINF:-1 ,Europa Plus
 https://ep128.hostingradio.ru:8030/ep128
+#EXTINF:-1 ,Evropa 2
+https://ice.actve.net/fm-evropa2-128
 #EXTINF:-1 ,France Inter
 https://icecast.radiofrance.fr/franceinter-hifi.aac
 #EXTINF:-1 ,France Culture
@@ -300,38 +265,22 @@ https://direct.francemusique.fr/live/francemusique-hifi.aac
 https://icecast.radiofrance.fr/franceinfo-hifi.aac
 #EXTINF:-1 ,France Bleu
 https://icecast.radiofrance.fr/fbprovence-midfi.mp3
-#EXTINF:-1 ,Frekvence 1
-http://ice.actve.net/fm-frekvence1-128
 #EXTINF:-1 ,Fly FM
 https://mediaprima.rastream.com/mediaprima-flyfm
 #EXTINF:-1 ,Guangdong Radio News Radio
 https://lhttp.qingting.fm/live/1254/64k.mp3
 #EXTINF:-1 ,Guangdong Radio Music
 http://live.cooltv.top/tv/ytradio.php?id=489
-#EXTINF:-1 ,Heart Radio Aruba 
-https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
 #EXTINF:-1 ,Humor FM
 https://pub0301.101.ru:8443/stream/air/mp3/256/102
-#EXTINF:-1 ,ITN Lakhanda FM
-https://cp12.serverse.com/proxy/itnfm?mp=/stream
-#EXTINF:-1 ,ICRT FM
-http://live.leanstream.co/ICRTFM?args=tunein_aac
-#EXTINF:-1 ,KBS1 Radio
+#EXTINF:-1 ,KBS Radio 1
 http://serpent0.duckdns.org:8088/kbs1radio.pls
-#EXTINF:-1 ,KBS2 Radio
+#EXTINF:-1 ,KBS Radio 2
 http://serpent0.duckdns.org:8088/kbs2radio.pls
 #EXTINF:-1 ,KBS Classic FM
 http://serpent0.duckdns.org:8088/kbs1fm.pls
 #EXTINF:-1 ,KBS Cool FM
 http://serpent0.duckdns.org:8088/kbs2fm.pls
-#EXTINF:-1 ,LNR FM 94.3
-https://radio.lnr.org.la/fm94
-#EXTINF:-1 ,LNR FM 103.7
-https://radio.lnr.org.la/fm103
-#EXTINF:-1 ,Le Mouv FM
-https://direct.mouv.fr/live/mouv-hifi.aac
-#EXTINF:-1 ,MAXIMUM Radio
-http://maximum.hostingradio.ru/maximum96.aacp
 #EXTINF:-1 ,MBC Standard FM
 http://serpent0.duckdns.org:8088/mbcsfm.pls
 #EXTINF:-1 ,Mediacorp Ria 897
@@ -354,52 +303,18 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aa
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac
 #EXTINF:-1 ,Mediacorp 987FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac
-#EXTINF:-1 ,NRJ
-http://lbs-th2-2.nrjaudio.fm/fr/30001/aac_64.mp3
 #EXTINF:-1 ,NewsTalk ZB
 https://ais-nzme.streamguys1.com/nz_002_aac
-#EXTINF:-1 ,Polskie Radio 1
-http://mp3.polskieradio.pl:8950/;
-#EXTINF:-1 ,Polskie Radio 2
-http://stream3.polskieradio.pl:8952/;.mp3
-#EXTINF:-1 ,Polskie Radio 3
-http://stream3.polskieradio.pl:8954/;.mp3
-#EXTINF:-1 ,Polskie Radio 4
-http://stream3.polskieradio.pl:8956/;
-#EXTINF:-1 ,Polskie Radio 24
-http://mp3.polskieradio.pl:8080/;
-#EXTINF:-1 ,Polskie Radio RDC Warszawa
-http://stream2.nadaje.com:11140/rdc
-#EXTINF:-1 ,RFE/RL Radio Liberty Russia
+#EXTINF:-1 ,RFE/RL Russia
 https://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04
-#EXTINF:-1 ,RFI Monde
-https://rfimonde-96k.ice.infomaniak.ch/rfimonde-96k.mp3
-#EXTINF:-1 ,RFI Anglais
-https://rfianglais96k.ice.infomaniak.ch/rfianglais-96k.mp3
-#EXTINF:-1 ,RTL 1
-https://streaming.radio.rtl.fr/rtl-1-44-128
-#EXTINF:-1 ,RTL 2
-https://streamer-02.rtl.fr/rtl2-1-44-128
 #EXTINF:-1 ,RMF FM
 http://rs6-krk2.rmfstream.pl/rmf_fm
-#EXTINF:-1 ,Radio Poland English
-http://mp3.polskieradio.pl:8908/;
-#EXTINF:-1, Radio Romania Actualitati
-http://stream2.srr.ro:8006/;
-#EXTINF:-1, Radio Romania Cultural
-http://stream2.srr.ro:8016/; 
-#EXTINF:-1, Radio Romania Muzical
-http://stream2.srr.ro:8026/;
-#EXTINF:-1, ANTENA SATELOR
-http://stream2.srr.ro:8046/;
-#EXTINF:-1, Radio Romania International 1
+#EXTINF:-1 ,Radio Romania International 1
 http://stream2.srr.ro:8056/; 
-#EXTINF:-1, Radio Romania International 2
+#EXTINF:-1 ,Radio Romania International 2
 http://stream2.srr.ro:8066/;
-#EXTINF:-1, Radio Romania International 3
+#EXTINF:-1 ,Radio Romania International 3
 http://stream2.srr.ro:8076/;
-#EXTINF:-1 ,Radio Vesti 
-http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 #EXTINF:-1 ,Radio Mayak 
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 #EXTINF:-1 ,Radio Rossii
@@ -410,24 +325,18 @@ http://chanson.hostingradio.ru:8041/chanson256.mp3
 https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3
 #EXTINF:-1 ,Radio Ukraine International
 https://radio.ukr.radio:8443/rui-aacplus-l
-#EXTINF:-1 ,Radio Promin (UR-2)
+#EXTINF:-1 ,Radio Promin
 https://radio.ukr.radio:8443/ur2-aacplus-l
-#EXTINF:-1 ,Radio Kultura (UR-3)
+#EXTINF:-1 ,Radio Kultura
 https://radio.ukr.radio:8443/ur3-mp3
 #EXTINF:-1 ,Radio Rebelde
 https://icecast.teveo.cu/zrXXWK9F
 #EXTINF:-1 ,Radio Progreso
 https://icecast.teveo.cu/XjfW7qWN
-#EXTINF:-1 ,Radio Reloj
-https://icecast.teveo.cu/b3jbfThq
 #EXTINF:-1 ,Radio Enciclopedia
 https://icecast.teveo.cu/9Rnrbjzq
 #EXTINF:-1 ,Radio Taino
 https://icecast.teveo.cu/3MCwWg3V
-#EXTINF:-1 ,Radio Cadena Habana
-https://icecast.teveo.cu/Jdq3Rbrg
-#EXTINF:-1 ,Radio Vilaverde Macau
-https://fm995.ddns.net/hls1/fm995.m3u8
 #EXTINF:-1 ,RTHK Radio 1
 https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8
 #EXTINF:-1 ,RTHK Radio 2
@@ -442,12 +351,6 @@ https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/index_56_a-p.m3u8
 http://stm.rthk.hk/radioptha
 #EXTINF:-1 ,RNZ National
 http://radionz-ice.streamguys.com/national.mp3
-#EXTINF:-1 ,RTI Radio
-https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8
-#EXTINF:-1 ,RTI Asian Radio
-https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti5/chunklist.m3u8
-#EXTINF:-1 ,RTI International
-https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti6/chunklist.m3u8
 #EXTINF:-1 ,RTM Nasional FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC.aac
 #EXTINF:-1 ,RTM Ai FM
@@ -458,34 +361,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC.aa
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC.aac
 #EXTINF:-1 ,RTM Minnal FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC.aac
-#EXTINF:-1 ,RTM KL FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/KL_FMAAC.aac
-#EXTINF:-1 ,SBS Love FM
-http://serpent0.duckdns.org:8088/sbs2fm.pls
 #EXTINF:-1 ,SBS Power FM
 http://serpent0.duckdns.org:8088/sbsfm.pls
-#EXTINF:-1 ,Sputnik English
-http://icecast-rian.cdnvideo.ru/voiceenghi
-#EXTINF:-1 ,Sputnik
-http://icecast-rian.cdnvideo.ru/voicerushi
-#EXTINF:-1 ,Sputnik turk
-http://icecast-rian.cdnvideo.ru/voicestm
-#EXTINF:-1 ,SLBC National Service
-http://220.247.227.6:8000/Snsstream
-#EXTINF:-1 ,SLBC City FM
-http://220.247.227.20:8000/citystream
-#EXTINF:-1 ,SMG Love Radio
-http://live.cooltv.top/tv/news1296.php?id=7
-#EXTINF:-1 ,SMG Shanghai 
-http://live.cooltv.top/tv/news1296.php?id=9
-#EXTINF:-1 ,SMG Dynamic
-http://live.cooltv.top/tv/news1296.php?id=4
-#EXTINF:-1 ,Shenzhen Traffic Radio
-https://fanmingming.com/fm?id=497
-#EXTINF:-1 ,Shenzhen News Radio
-https://fanmingming.com/fm?id=1074
-#EXTINF:-1 ,Shenzhen Music Radio
-https://fanmingming.com/fm?id=498
 #EXTINF:-1 ,SPH KISS92 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92.mp3
 #EXTINF:-1 ,SPH ONE FM 91.3
@@ -498,7 +375,5 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003.mp3
 https://live4.tdm.com.mo/live/_definst_/rch2.live/playlist.m3u8
 #EXTINF:-1 ,TDM Radio Portuguese
 https://live4.tdm.com.mo/live/_definst_/rch1.live/playlist.m3u8
-#EXTINF:-1 ,Ukrainske Radio (UR-1)
-https://radio.ukr.radio:8443/ur1-aacplus-l
 #EXTINF:-1 ,YES FM
 http://live.trusl.com:1150/listen.pls?sid=1
