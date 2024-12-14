@@ -383,6 +383,10 @@ https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8
 https://goccn.cloud/hls/belafrikatv/index.m3u8
 #EXTINF:-1 ,Eslah TV 
 https://eslahtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 ,Peniel K&Y
+https://s.emisoras.tv:8081/penielkids/index.m3u8
+#EXTINF:-1 ,Peniel Musical 
+https://s.emisoras.tv:8081/penielmusical/index.m3u8
 #EXTINF:-1 ,Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 ,Mekameleen
@@ -613,10 +617,16 @@ https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 http://live.mundogo.cl/mundo/LossaucesTV/index.m3u8
 #EXTINF:-1 ,Canal 8 Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 ,Canal 8 Santa Rosa 
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 #EXTINF:-1 ,Canal 9 Litoral 
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1 ,Canal 9 Barbe 
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1 ,Canal 12 Puerto Madryn
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1 ,Canal 13 Esquipulas
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 ,Canal 34 San Juan 
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 ,Hope Channel Bulgaria
@@ -673,6 +683,8 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 https://ss5.domint.net:3064/tvm_str/montanatv/playlist.m3u8
 #EXTINF:-1 ,TV Tarn
 https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8
+#EXTINF:-1 ,TV Florencia
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 #EXTINF:-1 ,TV Vale do Uruara
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:-1 ,TV Sabadell-Valles 
@@ -681,6 +693,8 @@ https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 ,KBC SBS
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 ,TV Azteca Guate
+https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 ,Akaku 53 
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
 #EXTINF:-1 ,Akaku 54
@@ -775,6 +789,8 @@ https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3
 https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
 #EXTINF:-1 ,VerbumTV
 https://verbumtv.livebox.co.in/verbumtvhls/live.m3u8
+#EXTINF:-1 ,AZA TV
+https://mediacp.us:8081/azatvhd/index.m3u8
 #EXTINF:-1 ,DIGI24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 ,Discover Pakistan
@@ -791,6 +807,8 @@ https://securestream6.champds.com/hlssstc/KOCTCALIVE/KOCTCALIVE.m3u8
 https://securestream6.champds.com/hlssstc/KOCTCALIVE2/KOCTCALIVE2.m3u8
 #EXTINF:-1 ,Apostol
 https://live.apostoltv.hu/live/playlist.m3u8
+#EXTINF:-1 ,JBN
+https://mediacp.us:8081/jbntv/index.m3u8
 #EXTINF:-1 ,Fuego TV
 https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
 #EXTINF:-1 ,RDX Goa 
@@ -813,6 +831,12 @@ https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.
 https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8
 #EXTINF:-1 ,M95 TV Marbella
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
+#EXTINF:-1 ,RTHK 33 
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#EXTINF:-1 ,RTHK 34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+#EXTINF:-1 ,RTHK 35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 #EXTINF:-1 ,DLTV 1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
 #EXTINF:-1 ,DLTV 2
