@@ -51,6 +51,8 @@ https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,ATV Colombia 
 https://movil.ejeserver.com/live/verteve.m3u8
+#EXTINF:-1 ,ATV Guinea 
+https://guineetvdirect.online:3320/live/atvguineelive.m3u8
 #EXTINF:-1 ,Amar Ujala
 https://ythls.armelin.one/channel/UCP_wvXToU5ohFLbTAkatvsw.m3u8
 #EXTINF:-1 ,Avenues Khabar 
@@ -63,12 +65,20 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 http://stream01.vnet.am/Tiji/mono.m3u8
 #EXTINF:-1 ,Medeniyyet TV
 https://str.yodacdn.net/medeniyyet/index.m3u8
+#EXTINF:-1 ,Action 24
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 ,RHT
+https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
 #EXTINF:-1 ,Strana FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 ,Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 ,Detsky Mir
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
+#EXTINF:-1 ,Alpha
+http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:-1 ,Attica
+http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1 ,TV9 Bangla 
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 ,TV9 Bharatvarsh
@@ -97,18 +107,32 @@ https://live-fi.tvkaista.net/mtv3/live.m3u8
 https://vdo2.streamgato.us:3278/live/rdntvlive.m3u8
 #EXTINF:-1 ,Atacama TV
 https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:-1 ,CORFU Channel
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 ,CRETA
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 ,FarosTV
+https://s1.cystream.net/live/faros1/playlist.m3u8
+#EXTINF:-1 ,Hellenic TV
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 ,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 ,El Sharq
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 ,El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 ,Faculty TV 
+https://stream-server9-jupiter.muxlive.com/hls/facultytv/index.m3u8
 #EXTINF:-1 ,TV5 Monde Asie
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 ,TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 ,TV5 Monde Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 ,GTV1 Guinea
+https://helga.iptv2022.com/GTV/index.m3u8
+#EXTINF:-1 ,KabackTV
+https://guineetvdirect.online:3842/live/kabacktvlive.m3u8
 #EXTINF:-1 ,TV78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 #EXTINF:-1 ,Retro Cartoon
@@ -425,6 +449,8 @@ https://lbs-us1.suprememastertv.com/720p.m3u8
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 #EXTINF:-1 ,SNTV
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8
+#EXTINF:-1 ,TV3 Ghana
+https://live.mediageneral.digital/live/livestream.m3u8
 #EXTINF:-1 ,Evrokom
 https://live.ecomservice.bg/hls/stream.m3u8
 #EXTINF:-1 ,Madani Channel English 
@@ -435,6 +461,8 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
 #EXTINF:-1 ,SIC TV
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 ,Jesus Temple TV
+https://5a1178b42cc03.streamlock.net/jesustemple/jesustemple/playlist.m3u8
 #EXTINF:-1 ,STZ TV
 https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 ,Kabbalah 
