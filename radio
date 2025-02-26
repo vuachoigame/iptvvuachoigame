@@ -1,57 +1,57 @@
 #EXTINF:-1 group-title="Radio VN",Radio VN
-#EXTINF:-1, VOV1
+#EXTINF:-1 ,VOV1
 http://media.kythuatvov.vn:7001/;stream/
-#EXTINF:-1, VOV2
+#EXTINF:-1 ,VOV2
 http://media.kythuatvov.vn:7003/;stream/
-#EXTINF:-1, VOV3
+#EXTINF:-1 ,VOV3
 http://media.kythuatvov.vn:7005/;stream/
-#EXTINF:-1, VOH FM 99.9Mhz
+#EXTINF:-1 ,VOH FM 99.9Mhz
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1, VOH FM 95.6Mhz
+#EXTINF:-1 ,VOH FM 95.6Mhz
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF:-1, VOH FM 87.7Mhz
+#EXTINF:-1 ,VOH FM 87.7Mhz
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
-#EXTINF:-1, VOH AM 610Khz
+#EXTINF:-1 ,VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
-#EXTINF:-1, Xone Radio
-https://hqth.me/xonefm_dlk
-#EXTINF:-1, AN GIANG 
+#EXTINF:-1 ,Xone Radio
+
+#EXTINF:-1 ,AN GIANG 
 http://42.1.64.42/490
-#EXTINF:-1, BA RIA VUNG TAU 
+#EXTINF:-1 ,BA RIA VUNG TAU 
 
-#EXTINF:-1, BAC LIEU 
+#EXTINF:-1 ,BAC LIEU 
 https://tv.thbl.vn/live/radio/radio.m3u8
-#EXTINF:-1, BAC KAN 
-http://14.224.167.97:8080/hls/radio.m3u8
-#EXTINF:-1, BAC GIANG 
+#EXTINF:-1 ,BAC KAN 
 
-#EXTINF:-1, BAC NINH 
+#EXTINF:-1 ,BAC GIANG 
 
-#EXTINF:-1, BEN TRE 
-http://sohoa.truyenthanhthongminh.vn/sohoabentre
-#EXTINF:-1, BINH DUONG 
+#EXTINF:-1 ,BAC NINH 
+
+#EXTINF:-1 ,BEN TRE 
+
+#EXTINF:-1 ,BINH DUONG 
 http://sohoa.truyenthanhthongminh.vn/sohoabinhduong
-#EXTINF:-1, BINH DINH 
+#EXTINF:-1 ,BINH DINH 
 
-#EXTINF:-1, BINH PHUOC
+#EXTINF:-1 ,BINH PHUOC
 http://sohoa.truyenthanhthongminh.vn/sohoabinhphuoc
-#EXTINF:-1, BINH THUAN 
-https://64d0d74b76158.streamlock.net:443/BTVR/binhthuanradio/playlist.m3u8
-#EXTINF:-1, CA MAU
+#EXTINF:-1 ,BINH THUAN 
 
-#EXTINF:-1, CAN THO 
+#EXTINF:-1 ,CA MAU
+
+#EXTINF:-1 ,CAN THO 
 http://sohoa.truyenthanhthongminh.vn/tpcantho
-#EXTINF:-1, DA NANG 
+#EXTINF:-1 ,DA NANG 
 
-#EXTINF:-1, DAK LAK 
+#EXTINF:-1 ,DAK LAK 
 https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
-#EXTINF:-1, DAK NONG
+#EXTINF:-1 ,DAK NONG
 https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/chunklist_w1887124328.m3u8
-#EXTINF:-1, DONG NAI 
+#EXTINF:-1 ,DONG NAI 
 
-#EXTINF:-1, DONG THAP 
+#EXTINF:-1 ,DONG THAP 
 http://sohoa.truyenthanhthongminh.vn/fmdongthap
-#EXTINF:-1, GIA LAI 
+#EXTINF:-1 ,GIA LAI 
 
 #EXTINF:-1, HA GIANG 
 http://113.162.84.113:8081/
@@ -132,11 +132,11 @@ http://118.70.118.191:1935/tbtvlive/radio/chunklist.m3u8
 #EXTINF:-1 ,TRA VINH
 http://sohoa.truyenthanhthongminh.vn/tinhtravinh
 #EXTINF:-1 ,TUYEN QUANG
-https://live.tuyenquangtv.vn/hls/radio.m3u8
+
 #EXTINF:-1 ,VINH LONG
 
 #EXTINF:-1 ,YEN BAI
-https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
+
 #EXTINF:-1 ,CAI LUONG FM
 https://stream.zeno.fm/0trm6wrnga0uv
 #EXTINF:-1 ,BOLERO FM
@@ -171,26 +171,6 @@ https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioraga
 http://212.26.132.129:8000/ArmyFM
 #EXTINF:-1 ,Avtoradio
 http://ic7.101.ru:8000/v3_1
-#EXTINF:-1 ,BBC Radio 1
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
-#EXTINF:-1 ,BBC Radio 1Xtra
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio=320000.m3u8
-#EXTINF:-1 ,BBC Radio 1 Dance
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=320000.m3u8
-#EXTINF:-1 ,BBC Radio 2
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
-#EXTINF:-1 ,BBC Radio 3
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8
-#EXTINF:-1 ,BBC Radio 4
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.m3u8
-#EXTINF:-1 ,BBC Radio 4 Extra
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8
-#EXTINF:-1 ,BBC Radio 5 Live
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
-#EXTINF:-1 ,BBC Radio 6
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
-#EXTINF:-1 ,BCC Music 
-http://n07.rcs.revma.com/ks4vsmg3qtzuv
 #EXTINF:-1 ,BFBS Radio 2
 https://edge-audio-06-cr.sharp-stream.com/ssvcbfbs2.mp3
 #EXTINF:-1 ,BFBS Gurkha Network
@@ -245,8 +225,6 @@ https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac
 https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac
 #EXTINF:-1 ,DZBB 594 Super Radyo
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
-#EXTINF:-1 ,Eight FM
-https://mediaprima.rastream.com/mediaprima-onefm
 #EXTINF:-1 ,Europe 1
 https://stream.europe1.fr/europe1.mp3
 #EXTINF:-1 ,Europe 2
@@ -265,18 +243,12 @@ https://direct.francemusique.fr/live/francemusique-hifi.aac
 https://icecast.radiofrance.fr/franceinfo-hifi.aac
 #EXTINF:-1 ,France Bleu
 https://icecast.radiofrance.fr/fbprovence-midfi.mp3
-#EXTINF:-1 ,Fly FM
-https://mediaprima.rastream.com/mediaprima-flyfm
 #EXTINF:-1 ,Guangdong Radio News Radio
 https://lhttp.qingting.fm/live/1254/64k.mp3
-#EXTINF:-1 ,Guangdong Radio Music
-http://live.cooltv.top/tv/ytradio.php?id=489
 #EXTINF:-1 ,Humor FM
 https://pub0301.101.ru:8443/stream/air/mp3/256/102
 #EXTINF:-1 ,KBS Radio 1
 http://serpent0.duckdns.org:8088/kbs1radio.pls
-#EXTINF:-1 ,KBS Radio 2
-http://serpent0.duckdns.org:8088/kbs2radio.pls
 #EXTINF:-1 ,KBS Classic FM
 http://serpent0.duckdns.org:8088/kbs1fm.pls
 #EXTINF:-1 ,KBS Cool FM
@@ -303,8 +275,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aa
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac
 #EXTINF:-1 ,Mediacorp 987FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac
-#EXTINF:-1 ,NewsTalk ZB
-https://ais-nzme.streamguys1.com/nz_002_aac
 #EXTINF:-1 ,RFE/RL Russia
 https://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04
 #EXTINF:-1 ,RMF FM
@@ -317,14 +287,12 @@ http://stream2.srr.ro:8066/;
 http://stream2.srr.ro:8076/;
 #EXTINF:-1 ,Radio Mayak 
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
-#EXTINF:-1 ,Radio Rossii
+#EXTINF:-1 ,Radio Rossii Moskva
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
 #EXTINF:-1 ,Radio Shanson
 http://chanson.hostingradio.ru:8041/chanson256.mp3
 #EXTINF:-1 ,Radio Orfey 
 https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3
-#EXTINF:-1 ,Radio Ukraine International
-https://radio.ukr.radio:8443/rui-aacplus-l
 #EXTINF:-1 ,Radio Promin
 https://radio.ukr.radio:8443/ur2-aacplus-l
 #EXTINF:-1 ,Radio Kultura
@@ -371,9 +339,5 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893.mp3
 #EXTINF:-1 ,SPH UFM 100.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003.mp3
-#EXTINF:-1 ,TDM Radio Cantonese
-https://live4.tdm.com.mo/live/_definst_/rch2.live/playlist.m3u8
-#EXTINF:-1 ,TDM Radio Portuguese
-https://live4.tdm.com.mo/live/_definst_/rch1.live/playlist.m3u8
 #EXTINF:-1 ,YES FM
 http://live.trusl.com:1150/listen.pls?sid=1
